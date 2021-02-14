@@ -1,15 +1,3 @@
-# SmartThings Public Github Repo
-
-An official list of SmartApps and Device Types from SmartThings.
-
-Here are some links to help you get started coding right away:
-
-* [Github-specific Documentation](http://docs.smartthings.com/en/latest/tools-and-ide/github-integration.html)
-* [Full Documentation](http://docs.smartthings.com)
-* [IDE & Simulator](http://ide.smartthings.com)
-* [Community Forums](http://community.smartthings.com)
-
-Follow us on the web:
-
-* Twitter: http://twitter.com/smartthingsdev
-* Facebook: http://facebook.com/smartthingsdevelopers
+# This Plugin is now DEPRECATED... 
+I've acquired the original homebridge-smartthings repo and npm package from @pdlove and i've updated the code to the latest v2.x
+Please use the new version here: https://github.com/tonesto7/homebridge-smartthings
